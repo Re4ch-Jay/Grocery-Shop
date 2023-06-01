@@ -1,16 +1,35 @@
-# grocery_shop
+# Mediatation App
 
-A new Flutter project.
+An app that make you calm, relief, relax, and focus 🧘
 
-## Getting Started
+### Screens
 
-This project is a starting point for a Flutter application.
+<img src="images/Banner.png" />
 
-A few resources to get you started if this is your first Flutter project:
+### Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- add to cart
+- remove from cart
+- calculate price
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Pakages
+
+- provider
+
+### Author
+
+[Phat Panhareach](https://github.com/Re4ch-Jay/)
+
+
+### Usage
+
+```bash
+# Clone this repository
+$ git clone https://github.com/Re4ch-Jay/Grocery-Shop
+
+# Install dependencies
+$ flutter packages get
+
+# Run the app
+$ flutter run
+```
