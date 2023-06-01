@@ -1,6 +1,7 @@
 # Mediatation App
 
-An app that make you calm, relief, relax, and focus 🧘
+Shopping at home is better!
+
 
 ### Screens
 
