@@ -1,4 +1,4 @@
-# Mediatation App
+# Grocery Shop App
 
 Shopping at home is better!
 
